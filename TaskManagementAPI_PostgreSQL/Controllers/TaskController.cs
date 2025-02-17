@@ -1,7 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using TaskManagementAPI_PostgreSQL.Data;
 using TaskManagementAPI_PostgreSQL.Data.DTO;
 
